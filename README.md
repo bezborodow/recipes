@@ -1,2 +1,3 @@
-# recipies
-Damo's Australian recipies.
+# Recipes
+
+Damo's Australian recipes.
